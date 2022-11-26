@@ -141,7 +141,7 @@ width: 100%;
 
 }
 .hero-banner-container .beats-solo{
-  font-size: 20px;
+  font-size: 18px;
   color: #ffffff;
 }
 .hero-banner-container button{
@@ -247,6 +247,7 @@ flex-direction: column;
 }
 .banner-desc .left p{
   margin:18px;
+  margin-left: 42px;
 }
 .footer-banner-image{
   position: absolute;
@@ -639,7 +640,7 @@ margin-top: 160px;
     right: 53%;
   }
   .btn{
-    margin-left: 16px;
+    margin-left: 10px;
   }
 
   .footer-banner-container{
