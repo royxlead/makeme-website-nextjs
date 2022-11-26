@@ -647,10 +647,10 @@ margin-top: 160px;
     margin-top: 80px;
   }
   .footer-banner-image{
-    width: 37%;
-    left: 59%;
-    top: 65%;
-    height: 35%;
+      position: absolute;
+      top: -176px;
+      height: 36rem;
+      left: 47%;
   }
   .banner-desc .left h3{
     font-weight: 900;
