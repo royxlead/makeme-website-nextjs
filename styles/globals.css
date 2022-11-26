@@ -633,10 +633,10 @@ margin-top: 160px;
     height: 560px;
   }
   .hero-banner-image{
-    width: 51%;
-    height: 49%;
-    top: 44%;
-    right: 49%;
+    width: 45%;
+    height: 48%;
+    top: 42.7%;
+    right: 53%;
   }
   .btn{
     margin-left: 16px;
@@ -647,10 +647,10 @@ margin-top: 160px;
     margin-top: 80px;
   }
   .footer-banner-image{
-      position: absolute;
-      top: -176px;
-      height: 36rem;
-      left: 47%;
+    position: absolute;
+    top: 320px;
+    height: 15rem;
+    left: 44%;
   }
   .banner-desc .left h3{
     font-weight: 900;
