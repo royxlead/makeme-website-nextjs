@@ -54,9 +54,3 @@ makeme-website-nextjs/
 * **Styling Upgrades**: Customize with Tailwind CSS, styled-components, or themed design.
 * **SEO Optimization**: Include metadata, optimized images, and other improvements for search visibility.
 * **Analytics & Performance Monitoring**: Integrate tools like Google Analytics and Lighthouse.
-
----
-
-## One-line Pinned Repo Description
-
-"MakeMe — A sleek Next.js-based makeup e-commerce front-end showcasing responsive design and modern web development."
